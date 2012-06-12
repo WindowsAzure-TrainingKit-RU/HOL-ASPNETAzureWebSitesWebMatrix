@@ -80,11 +80,11 @@ In this task, you will download and install WebMatrix  and then create a site us
 
 	_Opening WebMatrix from the Portal_
 
-1. Agree to the license terms in the **Install and open WebMatrix** dialog.
+1. If a **Security Warning** dialog is shown, click **Run**.
 
-    ![Install and open WebMatrix](images/install-and-open-webmatrix.png?raw=true "Install and open WebMatrix")
+	![Security Warning](images/security-warning.png?raw=true "Security Warning")
 
-    _Install and open WebMatrix_
+	_Security Warning_
 
 1. It will start the installation of **Microsoft WebMatrix** using **Web Platform Installer**.
 
