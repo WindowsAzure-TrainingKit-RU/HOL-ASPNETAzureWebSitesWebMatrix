@@ -16,6 +16,6 @@
   <Source></Source>
   <DependencyChecker></DependencyChecker>
   <CustomProperties>
-	<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/HOL-ASPNETAppsWithAzureWebSitesAndWebMatrix2" />
+	<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesWebMatrix" />
   </CustomProperties>   
 </Lab> 
