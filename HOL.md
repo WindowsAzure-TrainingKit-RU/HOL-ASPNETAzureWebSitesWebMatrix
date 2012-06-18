@@ -52,7 +52,7 @@ In this task, you will create a new Web Site from the Windows Azure Management P
 
 1. Open [Windows Azure Management Portal](https://manage.windowsazure.com) and log in with your Windows Azure Account's credentials.
 
-1. Click **New** | **Web Site** | **Quick Create**. Select a unique **URL** for your web site, for example _WebMatrixSite_.
+1. Click **New** | **Web Site** | **Quick Create**. Select a unique **URL** for your web site, for example _WebMatrixWebSite_.
 
 	![Creating a new Web Site](images/creating-a-new-web-site.png?raw=true "Creating a new Web Site")
 
@@ -100,7 +100,7 @@ In this task, you will download and install WebMatrix  and then create a site us
 
 	_WebMatrix Installed_
 
-1. Once the installation finishes, **WebMatrix** will be automatically launched and start downloading your site. Then, **WebMatrix** will start creating a local copy of your remote site. In this case, your empty site, so it will not take too long to complete the process.
+1. Once the installation finishes, **WebMatrix** will be automatically launched and start downloading your site. Then, **WebMatrix** will start creating a local copy of your remote site. In this case, an empty site, so it will not take too long to complete the process.
 
 	![Copying Files](images/copying-files.png?raw=true "Copying Files")
 
@@ -126,7 +126,7 @@ In this task, you will download and install WebMatrix  and then create a site us
 
 	_Downloading Photo Gallery Template_
 
-1. Once the installation is complete, in **WebMatrix**, notice that there are four available tabs: **Site**, **Files**, **Databases** and **Report**. 
+1. Once the installation is complete, in **WebMatrix**, notice that there are four available tabs: **Site**, **Files**, **Databases** and **Reports**. 
 
 	![Exploring Web Site](images/exploring-web-site.png?raw=true "Exploring Web Site")
 
@@ -145,7 +145,7 @@ In this task, you will download and install WebMatrix  and then create a site us
 
 In this task, you will publish the Photo Gallery template you created in the previous task to your Windows Azure Web Site using WebMatrix.
 
-1. Click **Publish** button to start publishing the **Photo Gallery** to the web site you created in the previous task.
+1. Click **Publish** to start publishing the **Photo Gallery** to the web site you created in the previous task.
 
 	![Publish Web Site](images/publish-web-site.png?raw=true "Publish Web Site")
 
@@ -212,7 +212,7 @@ In this task you will explore the Photo Gallery application you have published i
 
 	_Creating a new Gallery_
 
-1. In the **New Gallery** dialog, set the Gallery's _Name_ to **Photos** and click **Create**.
+1. In the **New Gallery** dialog, set the Gallery's **Name** to _Photos_ and click **Create**.
 
 	![Creating a new photo](images/creating-photos-gallery.png?raw=true "Creating a new photo")
 
@@ -224,7 +224,7 @@ In this task you will explore the Photo Gallery application you have published i
 
 	_Uploading a new photo_
 
-1. In the **Upload Photo** dialog, click the **Browse** button and select an image file.
+1. In the **Upload Photo** dialog, click the **Browse** and select an image file.
 
 	![Click Browse](images/click-browse.png?raw=true "Click Browse")
 
@@ -293,7 +293,7 @@ In this task you will use **NuGet Packages** to install the **Facebook Helper** 
 
     _Opening NuGet Gallery_
 
-1. In the **NuGet Gallery** dialog, select the **Official package source** from the drop down list in the top-right corner.
+1. In the **NuGet Gallery** dialog, select the **NuGet official package source** from the drop down list in the top-left corner.
     
     ![Selecting the Official package source](images/selecting-the-official-package-source.png?raw=true "Selecting the Official package source")
     
@@ -394,7 +394,7 @@ In this task you will use the **Facebook Helper** to insert a Like button in the
 
     _Facebook Like button in place_
 
-1. Click the **Like** button and notice the Facebook log in pop up to allow users to like or comment on the image.
+1. Click **Like** and notice the Facebook log in pop up to allow users to like or comment on the image.
 
     ![Facebook log in](images/facebook-authentication.png?raw=true "Facebook log in")
     
