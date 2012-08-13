@@ -1,8 +1,8 @@
-﻿<a name="Title" />
+﻿<a name="Title"></a>
 # Building and Publishing Web Applications with Windows Azure Web Sites and WebMatrix 2#
 
 ---
-<a name="Overview" />
+<a name="Overview"></a>
 ## Overview ##
 
 In this Hands-on Lab you will learn how to use Microsoft WebMatrix 2 to build and publish web sites in Windows Azure.
@@ -11,7 +11,7 @@ Microsoft WebMatrix is a free tool that allows you to create, customize and publ
 
 Following the exercises, you will create a new Web Site from the Windows Azure Management Portal and start to build your Web Site locally using WebMatrix. By using a WebMatrix out-of-the-box template, you will quickly create a photo gallery application and customize it by adding a Facebook Like button. Finally, you will publish the resulting web application to Windows Azure using WebMatrix built-in publishing support.
 
-<a name="Objectives" />
+<a name="Objectives"></a>
 ### Objectives ###
 
 In this hands-on lab, you will learn how to:
@@ -22,13 +22,13 @@ In this hands-on lab, you will learn how to:
 - Publish the Photo Gallery application using WebMatrix publishing feature
 - Use NuGet Packages to customize the Photo Gallery application
 
-<a name="Prerequisites" />
+<a name="Prerequisites"></a>
 ### Prerequisites ###
 
-- A Windows Azure subscription with the Web Sites Preview enabled - you can sign up for free trial [here](http://bit.ly/WindowsAzureFreeTrial)
+- A Windows Azure subscription with the Web Sites Preview enabled - [sign up for free trial](http://aka.ms/WATK-FreeTrial)
 
 ---
-<a name="Exercises" />
+<a name="Exercises"></a>
 ## Exercises ##
 
 This hands-on lab includes the following exercises:
@@ -40,12 +40,12 @@ This hands-on lab includes the following exercises:
 
 Estimated time to complete this lab: **45** minutes.
 
-<a name="Exercise1" />
+<a name="Exercise1"></a>
 ### Exercise 1: Creating a Windows Azure Web Site and Installing WebMatrix 2 ###
 
 In this exercise, you will use the Windows Azure Management Portal to create a new Web Site. Then, you will download and install WebMatrix to publish the Photo Gallery template within your web site.
 
-<a name="Ex1Task1" />
+<a name="Ex1Task1"></a>
 #### Task 1 – Creating a New Windows Azure Web Site ####
 
 In this task, you will create a new Web Site from the Windows Azure Management Portal.
@@ -62,7 +62,7 @@ In this task, you will create a new Web Site from the Windows Azure Management P
 
 1. Wait until the Web Site is **Running** before continuing to the next task.
 
-<a name="Ex1Task2" />
+<a name="Ex1Task2"></a>
 #### Task 2 – Creating a Web Site using WebMatrix Templates ####
 
 In this task, you will download and install WebMatrix  and then create a site using the Photo Gallery template.
@@ -140,7 +140,7 @@ In this task, you will download and install WebMatrix  and then create a site us
 	> - **Reports**: Generate SEO reports and optimize your web site for search engines using tools.
 
 
-<a name="Ex1Task3" />
+<a name="Ex1Task3"></a>
 #### Task 3 - Publishing a Web Site from WebMatrix ####
 
 In this task, you will publish the Photo Gallery template you created in the previous task to your Windows Azure Web Site using WebMatrix.
@@ -175,7 +175,7 @@ In this task, you will publish the Photo Gallery template you created in the pre
 	
 	_Metrics Chart_
 
-<a name="Exercise2" />
+<a name="Exercise2"></a>
 ### Exercise 2: Trying out the Photo Gallery Application ###
 
 In this task you will explore the Photo Gallery application you have published in [Exercise 1](#Exercise1). You will register as a photo gallery user and then explore the application to see how it works. You will upload some images, add comments to those pictures and see how thumbnails change according to the pictures you uploaded.
@@ -260,7 +260,7 @@ In this task you will explore the Photo Gallery application you have published i
 
 	_Thumbnail showing multiple images_
 
-<a name="Exercise3" /> 
+<a name="Exercise3"></a> 
 
 ### Exercise 3: Using NuGet Packages to Customize the Photo Gallery Application###
 
@@ -268,7 +268,7 @@ In this exercise, you will customize the Photo Gallery application you created i
 
 >**Note:** This exercise requires that you have the Photo Gallery application published in Windows Azure Web Sites as explained in Exercise 1.
 
-<a name="Ex3Task1"/>
+<a name="Ex3Task1"></a>
 #### Task 1 – Installing the Facebook Helper NuGet Package####
 
 In this task you will use **NuGet Packages** to install the **Facebook Helper** package.
@@ -331,7 +331,7 @@ In this task you will use **NuGet Packages** to install the **Facebook Helper** 
 	
 	> **Note:** The Facebook helper includes documentation for you to learn how to use all its features. You can view it by right-clicking the startHere.htm file located under the Facebook\Docs folder and selecting Launch in browser. The helper has a [CodePlex site](http://facebookhelper.codeplex.com) from where you can download a sample WebMatrix web site that shows the helper in action. This sample also shows you how to use the helper to integrate the Facebook login mechanism with your site.
 	
-<a name="Ex3Task2"/>
+<a name="Ex3Task2"></a>
 #### Task 2 – Adding a Facebook Like Button ####
 
 In this task you will use the **Facebook Helper** to insert a Like button in the Photo view.
