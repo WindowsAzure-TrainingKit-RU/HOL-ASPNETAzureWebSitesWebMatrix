@@ -25,7 +25,7 @@ In this hands-on lab, you will learn how to:
 <a name="Prerequisites"></a>
 ### Prerequisites ###
 
-- A Windows Azure subscription with the Web Sites Preview enabled - [sign up for free trial](http://aka.ms/WATK-FreeTrial)
+- A Windows Azure subscription with the Web Sites Preview enabled - [sign up for a free trial](http://aka.ms/WATK-FreeTrial)
 
 ---
 <a name="Exercises"></a>
