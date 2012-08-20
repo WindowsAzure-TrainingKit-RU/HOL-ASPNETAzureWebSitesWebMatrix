@@ -183,7 +183,7 @@ In this task you will explore the Photo Gallery application you have published i
 >**Note:** This exercise requires that you have the Photo Gallery application published in Windows Azure Web Sites as explained in Exercise 1.
 
 
-<a name="Ex2Task1"/>
+<a name="Ex2Task1"></a>
 #### Task 1 – Uploading Images and Adding Comments ####
 
 1. Open the Photo Gallery web site you have published in the previous exercise.
