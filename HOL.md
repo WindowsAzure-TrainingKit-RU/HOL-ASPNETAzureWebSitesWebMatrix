@@ -1,4 +1,4 @@
-﻿<a name="Title"></a>
+<a name="Title"></a>
 # Building and Publishing Web Applications with Windows Azure Web Sites and WebMatrix 2#
 
 ---
@@ -285,7 +285,7 @@ In this task you will use **NuGet Packages** to install the **Facebook Helper** 
 
     _Switching to the Files tab_
 
-1. Click **Gallery** within the ribbon bar to open the **NuGet Packages Gallery**.
+1. Click **NuGet** within the ribbon bar to open the **NuGet Packages Gallery**.
 
 	NuGet is a package management tool that allows you to download and install community-contributed code helpers for common tasks like social network integration and mobile support.
 
